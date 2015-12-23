@@ -1,0 +1,39 @@
+﻿Build started 28-03-2015 23:06:09.
+     1>Project "C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Proj2_Sridhar_Ganapathy\Proj2_Sridhar_Ganapathy.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\DisplayPackage\DisplayPackage.cpp ..\XmlParser\XmlParser.cpp Executive.cpp XmlDocument\XmlDocument\XmlDocument.cpp XmlDocument\XmlElement\XmlElement.cpp XmlReader\XmlReader\XmlReader.cpp
+         XmlReader.cpp
+         XmlElement.cpp
+         XmlDocument.cpp
+         Executive.cpp
+         XmlParser.cpp
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(63): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(73): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(200): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\xmlparser\xmlparser.cpp(274): warning C4018: '<' : signed/unsigned mismatch
+         DisplayPackage.cpp
+         Generating Code...
+     1>c:\users\sridhar\documents\visual studio 2013\projects\proj2_sridhar_ganapathy\proj2_sridhar_ganapathy\xmldocument\xmldocument\xmldocument.cpp(78): warning C4715: 'XmlProcessing::XmlDocument::DFSSearchTree_forAttribute' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Debug\Executive.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Debug\Executive.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Debug\Executive.lib" /MACHINE:X86 Debug\DisplayPackage.obj
+         Debug\XmlParser.obj
+         Debug\Executive.obj
+         Debug\XmlDocument.obj
+         Debug\XmlElement.obj
+         Debug\XmlReader.obj
+         Proj2_Sridhar_Ganapathy.vcxproj -> C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Debug\Executive.exe
+     1>Done Building Project "C:\Users\Sridhar\Documents\Visual Studio 2013\Projects\Proj2_Sridhar_Ganapathy\Proj2_Sridhar_Ganapathy\Proj2_Sridhar_Ganapathy.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.69
